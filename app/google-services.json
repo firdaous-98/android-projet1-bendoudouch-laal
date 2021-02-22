@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233770119484",
+    "project_id": "usermanager-b61bc",
+    "storage_bucket": "usermanager-b61bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233770119484:android:427f2f460ef4aa4c42ee39",
+        "android_client_info": {
+          "package_name": "ensa.application01.usermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233770119484-9f0f8rsti8olv16lqgdvvmo1mdgeo7bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ensa.application01.usermanager",
+            "certificate_hash": "21d086daab696a4b97fbec7903713be3de16f6a5"
+          }
+        },
+        {
+          "client_id": "233770119484-6vi86j7pmldbvca3qr3c47lfnpsuo5bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC9Mjdhh9LD-gJxNo91zh9OefL4HKcuc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233770119484-6vi86j7pmldbvca3qr3c47lfnpsuo5bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
